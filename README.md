@@ -2,7 +2,7 @@
  
 # HEMANTH SAI GORU
 
-### ⚡ Technical Lead & Solution Engineer | Incident Manager 
+### ⚡ Technical Lead & Solution Engineer | Incident Commander  
  
 ---
  
