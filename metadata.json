@@ -1,0 +1,8 @@
+{
+  "name": "Cinematic Developer Portfolio",
+  "description": "An immersive, world-class developer portfolio with physical Three.js particle systems, high-end GSAP animations, glassmorphism UI, and custom cinematic video integrations built for Hemanth Sai Goru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

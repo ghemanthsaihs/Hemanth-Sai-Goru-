@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Base custom interactive states aligned with Sophisticated Dark */
+html {
+  scroll-behavior: smooth;
+  background-color: #050505;
+  color: #ffffff;
+}
+
+body {
+  background-color: #050505;
+}
+
+::selection {
+  background-color: rgba(249, 115, 22, 0.3);
+  color: #fff;
+}
+
+/* High-end cinematic scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(249, 115, 22, 0.2);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(249, 115, 22, 0.4);
+}
+
+/* Glassmorphism custom components */
+.backdrop-blur-xl {
+  backdrop-filter: blur(24px) saturate(180%);
+}
+
+.custom-badge {
+  box-shadow: 0 0 25px rgba(249, 115, 22, 0.5);
+}
+
+/* Atmospheric noise overlay */
+.atmospheric-grain {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/7/76/1k_noise_pattern.png');
+}
+
+/* Text outline utility to emulate the premium Marcus Chen title look */
+.text-stroke-white {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.7);
+}
+.text-stroke-orange {
+  -webkit-text-stroke: 1px rgba(249, 115, 22, 0.6);
+}
