@@ -1,24 +1,22 @@
 
-
-https://github.com/user-attachments/assets/ffe36e56-40d0-43b1-85f6-4b9d8b512357
-
+# Hemanth Sai Goru
+### Solution Engineer & Technical Lead
+ 
+I am a high-performing Technical Lead & Solution Engineer, passionate about building robust web experiences, scalable software architectures, and orchestrating mission-critical incident responses.
+ 
+---
+ 
+## Cinematic Typing Demo
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<video src="https://github.com/user-attachments/assets/ffe36e56-40d0-43b1-85f6-4b9d8b512357" width="700" controls></video>
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/77d31e3b-659f-4f6b-b3a8-8d9e5a609473
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ 
+---
+ 
+## About Me
+* Add more details about your specific expertise here.
+* Highlight your key achievements or the technologies you work with.
+ 
+## Contact
+* LinkedIn: [Link to your profile]
+* Email: [Your email address]
