@@ -4,7 +4,7 @@
 <video src="https://github.com/user-attachments/assets/ffe36e56-40d0-43b1-85f6-4b9d8b512357" width="100%" autoplay loop muted playsinline></video>
  
 # 🌐 HEMANTH SAI GORU
-### ⚡ Technical Lead | Incident Commander | Solution Architect
+### ⚡ Technical Lead | Solution Engineer | Incident Commander
  
 ---
  
@@ -42,7 +42,7 @@
 ---
  
 ### 🏆 CERTIFICATIONS & ACCOLADES
-*   🏅 **Award:** Best Incident Commander
+*   🏅 **Award:** Best Incident Commander by Autodesk 
 *   🔐 **Certification:** Microsoft Azure Certified | ITIL V4 | Business Analysis
 *   🧠 **Proficiency:** Machine Learning | Process Management
  
