@@ -1,53 +1,66 @@
 <div align="center">
  
-# Hemanth Sai Goru
+# HEMANTH SAI GORU
 
-### Technical Lead | Solution Engineer | Incident Commander
+### ⚡ Technical Lead & Incident Commander | Architecting Reliability
  
 ---
  
-<!-- Your Self-Intro Video -->
+<!-- High-Impact Hero Video -->
 <video src="https://github.com/user-attachments/assets/ffe36e56-40d0-43b1-85f6-4b9d8b512357" width="800" autoplay loop muted playsinline></video>
  
 ---
  
-### 🎙 About Me
+### 🛰 THE COMMAND CENTER
 
-I am a dedicated Technical Lead at **Cognizant Technology Solutions**, driven by a passion for building robust web experiences, scalable software architectures, and orchestrating mission-critical incident responses. With over 4 years of experience, I excel in bridging the gap between complex technical challenges and innovative business solutions.
+**Orchestrating mission-critical stability for global enterprise ecosystems.**
  
-[**LinkedIn**](https://www.linkedin.com/in/hemanth-sai-goru-78320120a) | [**Email**](mailto:ghemanthsai.hs@gmail.com) | [**Phone**](tel:+919121537640)
+<a href="tel:+919121537640"><img src="https://img.shields.io/badge/Mobile-9121537640-0077b5?style=for-the-badge&logo=phone"></a>
+<a href="mailto:ghemanthsai.hs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/hemanth-sai-goru-78320120a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin"></a>
  
 </div>
- 
-## 💼 Professional Philosophy
-
-I believe in delivering high-quality, time-bound resolutions. My background in Major Incident Management has taught me how to make critical decisions under pressure, manage resources effectively, and foster collaborative environments. I am a lifelong learner, always seeking new challenges in the evolving technology landscape.
- 
-## 🛠 Skills & Expertise
-
-* **Core Competencies:** Major Incident Management, Customer Experience, Business Analysis, Project Management.
-
-* **Technical Stack:** ServiceNow, Jira Service Management, Microsoft SQL Server, Azure, PowerBI, MySQL.
-
-* **Engineering Tools:** SOLIDWORKS, CATIA.
- 
-## 🚀 Experience Highlights
-
-* **Technical Lead (Cognizant, 2023–Present):** Managing incident operations, developing objectives, and performing root cause analysis for global clients.
-
-* **Senior Systems Executive (Cognizant, 2022–2023):** Specialized in IT infrastructure and supporting global business applications.
-
-* **Systems Engineer (Cognizant, 2021–2022):** Collaborated on process improvement and data-driven research.
- 
-## 🎓 Education & Certifications
-
-* **B.Tech, Mechanical Engineering** | Andhra University
-
-* **Key Certifications:** ITIL V4, Microsoft Azure, Introduction to Machine Learning, Business Analysis & Process Management.
  
 ---
+ 
+### 👁‍🗨 CORE FOCUS
+
+| Strategic Domain | Technical Precision | Operational Excellence |
+
+| :--- | :--- | :--- |
+
+| **Incident Command** | Azure Cloud Architecture | Major Incident Management |
+
+| **System Reliability** | ServiceNow / Jira SM | ITIL V4 Standards |
+
+| **Business Analysis** | SQL / PowerBI Data Ops | Root Cause Analysis |
+ 
+---
+ 
+### 🚀 OPERATIONAL HISTORY
+> *"Decisions under pressure. Scalability through design."*
+ 
+*   **TECHNICAL LEAD (Cognizant):** Serving as the backbone of emergency response. I don't just fix issues; I develop the strategies that prevent them, ensuring global-scale uptime and resilience.
+
+*   **SENIOR SYSTEMS EXECUTIVE:** Bridging the gap between hardware infrastructure and end-user computing, optimizing workflows for complex, high-pressure environments.
+
+*   **SYSTEMS ENGINEER:** Cultivating data-driven processes and cross-functional synergy to maximize team productivity and project precision.
+ 
+---
+ 
+### 🛡 PROVEN RECOGNITION
+
+*   🏅 **Award:** Best Incident Commander
+
+*   🔐 **Certified:** Microsoft Azure | ITIL V4
+
+*   🧠 **Proficient:** Machine Learning | Business Analysis | Process Management
+ 
+---
+ 
 <div align="center">
-<sub>Committed to technical excellence and continuous growth.</sub>
+<img src="https://komarev.com/ghpvc/?username=hemanth-sai-goru&style=flat-square&color=blue" alt="Profile Views" />
+<br>
+<sub><i>Engineered for Reliability | Driven by Data | Built to Scale</i></sub>
 </div>
  
-
