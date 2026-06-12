@@ -2,7 +2,7 @@
  
 # HEMANTH SAI GORU
 
-### ⚡ Technical Lead & Incident Commander | Architecting Reliability
+### ⚡ Technical Lead & Solution Engineer | Incident Manager 
  
 ---
  
